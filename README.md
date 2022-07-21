@@ -23,7 +23,7 @@ Something about me 🛴🛴🛴
 ### History of my Studying ###
 - 2012 - 2015, Pascal (Easy-Medium Problems ~ recursive)
 - 2015 - 2019, C/C++ (Medium problems ~ College)
-- 2019, Start working with C++ Project [STDK in IOT](https://github.com/SmartThingsCommunity/st-device-sdk-c)
+- 2019, Joined [STDK in IOT](https://github.com/SmartThingsCommunity/st-device-sdk-c) Project using C++ 
 - 2020, Improving Algorithm skill - Got **Level Professional Cert.** Samsung Technical Test  (Skills: Hashing, Linked-list, Tree, Trie, ...)
 - 2020, Working on PyQt5 projects collects data and run scripts [ADB commands](https://developer.android.com/studio/command-line/adb), UIAutomator
 - 2021, Working on Django projects with Native ORMs, Redis & Celery as workers.
