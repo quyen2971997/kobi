@@ -26,7 +26,7 @@ Something about me 🛴🛴🛴
 - 2019, Joined [STDK in IOT](https://github.com/SmartThingsCommunity/st-device-sdk-c) Project using C++ 
 - 2020, Improving Algorithm skill - Got **Level Professional Cert.** Samsung Technical Test  (Skills: Hashing, Linked-list, Tree, Trie, ...)
 - 2020, Working on PyQt5 projects collects data and run scripts [ADB commands](https://developer.android.com/studio/command-line/adb), UIAutomator
-- 2021, Working on Django projects with Native ORMs, Redis & Celery as workers.
+- 2021, Working on Django projects with Native ORMs, Redis & Celery as workers. Also started self-studying about Web3.0 & Smart Contracts.
 - 2022, Working on Tools crawl data from websites using Python [Requests](https://requests.readthedocs.io/en/latest/) or [Selenium](https://selenium-python.readthedocs.io/).
 - Now, I'm Opening to work.
 ### Demo Projects ###
