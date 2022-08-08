@@ -14,7 +14,7 @@ Something about me 🛴🛴🛴
 
 ### Skills ###
 - **Python**
-- Algorithm **C/C++, Java** (able to solve Hackathon ~ Medium-Hard problems)
+- Algorithm **C/C++, Java** (able to solve Hackerrank  ~ Medium-Hard problems)
 - Web2.0 (Vanilla Javascript, some React)
 - Web3.0 - Web3.js (for Frontend), Web3.py (for backend)
 - Solidity: Build Smart Contracts
