@@ -38,4 +38,4 @@ Something about me 🛴🛴🛴
 ### Contact Me ###
 - 💼 [LinkedIn](https://www.linkedin.com/in/quyen2971997/)
 - 📫 [Email: quyen2971997@gmail.com](https://gmail.com)
-- 🚩 [Hackerrank]([https://gmail.com](https://www.hackerrank.com/quyen2971997))
+- 🚩 [Hackerrank](https://www.hackerrank.com/quyen2971997)
