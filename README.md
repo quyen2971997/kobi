@@ -7,7 +7,7 @@ Something about me 🛴🛴🛴
 - 🎂 I'm Male, 26 yo 📆.
 - 💼 I've been working in Software Engineer since late 2019.
 - 📚 10 years of coding since 2012. My first buddy was **Pascal** and now is **Python**.
-- 🎶 Hobbies: **Games** (Valorant, CS:GO, League of Legends) and **Movies**.
+- 🎶 Hobbies: [**Problem Solving**](https://www.hackerrank.com/quyen2971997), **Games** (Valorant, CS:GO, League of Legends) and **Movies**.
 -
 
 
