@@ -10,13 +10,13 @@ Something about me ☎
 - 🎶 Hobbies: [**Problem Solving**](https://www.hackerrank.com/quyen2971997), **Games** (Valorant, CS:GO, League of Legends) and **Movies**.
 
 ### Skills ###
-- **Python** - Django, Selenium, PyQt5, 
-- Algorithm **C/C++, Java** (able to solve Hackerrank  ~ Medium-Hard problems)
+- **Python** - Django, Selenium, PyQt5, ...
+- Algorithm **C/C++, Java, Python** (able to solve Hackerrank  ~ Medium-Hard problems)
 - Web2.0 (Vanilla Javascript, some React)
 - Web3.0 - Web3.js (for Frontend), Web3.py (for backend)
 - [Phaser 3](https://phaser.io/) - A HTML5 Game Framework
-- Solidity: Build Smart Contracts
-- Other junk - Docker, Nginx, Gunicorn, Linux, Cloud (EC2, EB, Cloud Compute), , Adobe Premiere
+- Solidity: Build Smart Contract
+- Other junk - Docker, Nginx, Gunicorn, Linux, Cloud (EC2, EB, Cloud Compute), Websocket, Adobe Premiere
 - English: Communicate (Good enough)
 
 ### History of my Study ###
