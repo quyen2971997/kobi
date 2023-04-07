@@ -2,7 +2,7 @@
 # Have A Lovely Day, My Dear Friends
 ## I'm a Software Engineer 
 
-Something about me ☎
+### Something about me ☎
 - 🏡 I'm currently **living** & **working** in Hanoi city, Vietnam
 - 🎂 I'm Male, 26 yo 📆.
 - 💼 I've been working in Software Engineer since late 2019.
